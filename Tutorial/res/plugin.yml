@@ -1,0 +1,9 @@
+name: Tutorial
+version: 1.0
+main: com.AtomGamers.Tutorial.Tutorial
+author: _Jonathan_xD
+website: www.atomgamers.com
+commands:
+  tuto:
+    description: Tutorial.
+    usage: 'Comando incorreto, Use: /<command> help para ver a ajuda.'
